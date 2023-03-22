@@ -8,3 +8,12 @@ yolov3.weights
 data/log/events.out.tfevents.1604756561.nourislam-GL63-8RD.202114.5405.v2
 *.csv 
 *.jpg 
+SavedModel/YOLOv3_model/fingerprint.pb
+SavedModel/YOLOv3_model/keras_metadata.pb
+SavedModel/YOLOv3_model/saved_model.pb
+SavedModel/YOLOv3_model/variables/variables.data-00000-of-00001
+SavedModel/YOLOv3_model/variables/variables.index
+SavedModel/YOLOv3_model_v2/keras_metadata.pb
+SavedModel/YOLOv3_model_v2/saved_model.pb
+SavedModel/YOLOv3_model_v2/variables/variables.data-00000-of-00001
+SavedModel/YOLOv3_model_v2/variables/variables.index
