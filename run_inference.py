@@ -21,7 +21,7 @@ if __name__=='__main__':
     IOU_THRESHOLD = args.iou
 
     path_to_image  = args.path_to_image
-    model = tf.keras.models.load_model('SavedModel/YOLOv3_model')
+    model = tf.keras.models.load_model('SavedModel/YOLOv3_model_v2')
 
     image = cv2.imread(path_to_image)
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)

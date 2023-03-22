@@ -25,4 +25,4 @@ if __name__=='__main__':
     model = tf.keras.Model(input_layer, bbox_tensors)
     model.load_weights("./yolov3")
 
-    model.save('SavedModel/YOLOv3_model')
+    model.save('SavedModel/YOLOv3_model_v2')
